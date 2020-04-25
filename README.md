@@ -11,4 +11,4 @@ This is the basic *Pong* as I remembered it as a kid! It's great fun to play, an
 * 10 for a goal
 * Minus 10 for a goal scored agianst you
 
-![Screenshot](https://raw.githubusercontent.com/marlinspike/pong/master//screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/marlinspike/pong/master//pong.png)
